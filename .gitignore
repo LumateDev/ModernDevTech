@@ -1,0 +1,52 @@
+## .NET Core
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+.vscode/
+*.swp
+*._*
+
+## IDE
+.idea/
+*.sln.iml
+
+## Docker
+docker-compose.override.yml
+docker-compose.dev.yml
+*.secrets.*
+*.env
+appsettings.Development.json
+
+## Logs
+*.log
+logs/
+
+## Test results
+TestResults/
+*.trx
+
+## NuGet packages
+packages/
+*.nupkg
+
+## Project specific
+lab1-load-balancing/**/wwwroot/uploads/
+lab1-load-balancing/**/App_Data/
