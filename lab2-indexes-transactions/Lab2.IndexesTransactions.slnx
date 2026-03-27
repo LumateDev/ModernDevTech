@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lab2.IndexesTransactions.Api/Lab2.IndexesTransactions.Api.csproj" />
+  <Project Path="Lab2.IndexesTransactions.Tests/Lab2.IndexesTransactions.Tests.csproj" />
+</Solution>
