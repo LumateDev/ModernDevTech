@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lab3.Replication.Node/Lab3.Replication.Node.csproj" />
+  <Project Path="Lab3.Replication.Tests/Lab3.Replication.Tests.csproj" />
+</Solution>
